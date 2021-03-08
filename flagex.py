@@ -2,7 +2,7 @@
 
 Flag extraction script
  - Searches files for brace pairs
- - Prints out flags in order of the longest ones first so that they appear last in the terminal
+ - Prints out flags in order of score which is the percentage of alphanumberic characters
  - padding is how far in front of each flag it checks
 
 '''
